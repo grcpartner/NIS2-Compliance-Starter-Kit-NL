@@ -1,6 +1,6 @@
 # 🇳🇱 NIS2 Compliance Starter Kit (Nederland)
 
-Een gratis en praktisch starterspakket voor Nederlandse MSP's en IT-dienstverleners die willen voldoen aan de NIS2-richtlijn (Cyberbeveiligingswet). Ontwikkeld door GRC Partner om compliance eenvoudiger, sneller en effectiever te maken.
+Een gratis en praktisch starterspakket voor Nederlandse MSP's en IT-dienstverleners die willen voldoen aan de NIS2-richtlijn (Cyberbeveiligingswet). Ontwikkeld door GRC Kompas om compliance eenvoudiger, sneller en effectiever te maken.
 
 ---
 
